@@ -1,0 +1,12 @@
+[
+{"text": ["Miami"], "author": "javascript:FaresFilters.getInstance().ChangePage('2');", "tags": "Prueba"},
+{"text": ["Galveston"], "author": "javascript:FaresFilters.getInstance().ChangePage('2');", "tags": "Prueba"},
+{"text": ["Ft Lauderdale"], "author": "javascript:FaresFilters.getInstance().ChangePage('2');", "tags": "Prueba"},
+{"text": ["Auckland"], "author": "javascript:FaresFilters.getInstance().ChangePage('2');", "tags": "Prueba"},
+{"text": ["Marseille"], "author": "javascript:FaresFilters.getInstance().ChangePage('2');", "tags": "Prueba"},
+{"text": ["Sydney"], "author": "javascript:FaresFilters.getInstance().ChangePage('2');", "tags": "Prueba"},
+{"text": ["Buenos Aires"], "author": "javascript:FaresFilters.getInstance().ChangePage('2');", "tags": "Prueba"},
+{"text": ["Hong Kong"], "author": "javascript:FaresFilters.getInstance().ChangePage('2');", "tags": "Prueba"},
+{"text": ["Port Canaveral"], "author": "javascript:FaresFilters.getInstance().ChangePage('2');", "tags": "Prueba"},
+{"text": ["Los Angeles"], "author": "javascript:FaresFilters.getInstance().ChangePage('2');", "tags": "Prueba"}
+]
